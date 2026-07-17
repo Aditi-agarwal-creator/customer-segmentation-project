@@ -1,0 +1,516 @@
+﻿CustomerID,Age,Gender,Annual_Income_Lakhs,Spending_Score,Purchase_Frequency,Recency_Days,Preferred_Category
+CUST1490,53,Female,9.0,59,9,58,Beauty
+CUST1430,26,Male,5.8,51,9,45,Sports
+CUST1083,35,Male,16.9,89,21,20,Beauty
+CUST1121,44,Male,22.2,29,6,42,Fashion
+CUST1222,21,Female,8.3,74,12,23,Groceries
+CUST1148,43,Male,15.7,19,5,90,Sports
+CUST1033,34,Male,11.6,96,28,10,Home & Kitchen
+CUST1386,37,Female,3.4,19,1,107,Fashion
+CUST1201,41,Female,6.3,77,11,18,Electronics
+CUST1482,47,Male,8.7,37,12,44,Sports
+CUST1296,34,Male,6.3,81,15,42,Fashion
+CUST1262,25,Female,6.0,64,21,27,Home & Kitchen
+CUST1434,25,Male,8.0,42,13,29,Electronics
+CUST1475,51,Male,10.4,62,15,33,Groceries
+CUST1460,45,Female,12.4,65,13,31,Sports
+CUST1458,59,Female,7.6,50,15,38,Groceries
+CUST1356,51,Male,3.2,23,5,132,Electronics
+CUST1467,22,Male,5.7,61,15,14,Fashion
+CUST1116,42,Female,12.9,25,5,110,Groceries
+CUST1404,32,Female,3.5,22,2,105,Fashion
+CUST1014,46,Female,22.1,92,26,24,Electronics
+CUST1275,33,Female,6.0,95,20,16,Groceries
+CUST1309,33,Male,6.1,77,17,1,Sports
+CUST1506,34,Male,6.9,53,13,39,Home & Kitchen
+CUST1337,18,Male,6.1,23,4,83,Fashion
+CUST1498,54,Female,11.5,48,9,27,Beauty
+CUST1133,64,Female,16.3,31,6,120,Beauty
+CUST1376,40,Female,4.3,17,2,134,Fashion
+CUST1260,31,Female,3.1,64,18,8,Electronics
+CUST1269,34,Male,5.0,88,22,24,Beauty
+CUST1279,27,Female,4.7,84,19,15,Sports
+CUST1497,42,Male,9.1,57,10,52,Fashion
+CUST1302,34,Male,4.2,65,10,22,Groceries
+CUST1147,48,Male,15.8,31,8,64,Home & Kitchen
+CUST1026,36,Male,15.0,72,25,9,Sports
+CUST1485,40,Male,8.2,47,9,9,Sports
+CUST1314,36,Male,6.9,67,18,7,Groceries
+CUST1247,37,Male,4.9,79,18,28,Groceries
+CUST1347,22,Female,5.6,21,5,154,Fashion
+CUST1223,18,Male,6.2,98,18,16,Electronics
+CUST1419,39,Male,5.6,32,5,59,Fashion
+CUST1052,42,Female,15.8,85,29,14,Groceries
+CUST1259,24,Male,6.1,69,18,18,Home & Kitchen
+CUST1428,54,Male,8.3,26,15,36,Beauty
+CUST1041,43,Female,17.5,80,24,13,Home & Kitchen
+CUST1090,41,Female,17.5,96,29,21,Electronics
+CUST1207,21,Female,4.4,68,16,8,Electronics
+CUST1240,30,Male,6.0,52,14,19,Beauty
+CUST1483,54,Female,9.0,47,12,31,Electronics
+CUST1239,22,Male,3.6,75,17,25,Fashion
+CUST1505,27,Male,5.7,55,13,36,Sports
+CUST1311,27,Female,5.8,89,24,26,Fashion
+CUST1004,45,Male,13.7,73,20,20,Electronics
+CUST1180,33,Female,14.2,42,8,97,Electronics
+CUST1249,39,Male,2.9,76,24,15,Sports
+CUST1293,21,Male,5.9,87,17,10,Beauty
+CUST1066,44,Female,18.5,78,25,9,Beauty
+CUST1139,55,Male,16.9,27,6,112,Fashion
+CUST1437,40,Male,8.1,53,11,49,Fashion
+CUST1304,25,Male,7.0,58,9,22,Groceries
+CUST1114,46,Female,17.8,41,6,88,Home & Kitchen
+CUST1469,54,Female,7.8,50,14,30,Beauty
+CUST1169,37,Male,17.2,24,5,89,Sports
+CUST1102,47,Male,14.0,80,26,7,Groceries
+CUST1373,35,Male,5.7,45,4,144,Beauty
+CUST1214,24,Female,3.1,90,19,22,Home & Kitchen
+CUST1406,53,Female,6.4,15,3,128,Home & Kitchen
+CUST1502,60,Male,6.0,46,8,34,Electronics
+CUST1461,26,Male,9.2,44,12,26,Fashion
+CUST1338,29,Male,3.9,41,1,63,Groceries
+CUST1452,45,Male,8.8,40,18,38,Sports
+CUST1194,51,Male,15.6,33,4,107,Home & Kitchen
+CUST1061,26,Female,16.0,86,15,20,Sports
+CUST1417,22,Female,5.0,28,4,83,Sports
+CUST1315,18,Male,6.5,81,19,22,Fashion
+CUST1119,38,Female,12.4,44,7,105,Groceries
+CUST1370,31,Female,5.0,27,3,124,Beauty
+CUST1426,36,Male,6.2,50,11,20,Electronics
+CUST1110,26,Male,15.9,78,26,16,Electronics
+CUST1348,34,Female,5.3,19,2,104,Beauty
+CUST1450,47,Male,11.8,41,12,46,Sports
+CUST1362,24,Female,5.2,27,1,44,Sports
+CUST1091,43,Female,19.0,91,24,10,Electronics
+CUST1156,43,Female,15.5,28,5,106,Home & Kitchen
+CUST1264,29,Male,5.8,63,9,18,Beauty
+CUST1307,29,Female,5.2,72,30,26,Groceries
+CUST1031,53,Male,19.2,79,23,14,Home & Kitchen
+CUST1023,47,Female,19.9,68,22,2,Sports
+CUST1306,23,Female,5.5,90,19,32,Electronics
+CUST1032,35,Male,15.0,85,26,10,Sports
+CUST1238,22,Male,6.3,86,11,2,Sports
+CUST1327,23,Male,4.5,26,3,123,Groceries
+CUST1053,28,Female,24.4,81,18,10,Beauty
+CUST1491,32,Male,10.2,61,8,20,Electronics
+CUST1165,43,Female,19.6,5,2,131,Home & Kitchen
+CUST1217,34,Male,2.7,72,18,16,Home & Kitchen
+CUST1163,38,Male,19.5,39,7,68,Electronics
+CUST1366,28,Male,3.2,16,4,157,Electronics
+CUST1057,36,Female,20.8,76,26,1,Home & Kitchen
+CUST1471,44,Male,8.3,56,9,55,Electronics
+CUST1003,43,Male,16.2,83,21,14,Beauty
+CUST1059,32,Female,17.5,92,25,1,Beauty
+CUST1372,37,Male,4.3,32,4,154,Home & Kitchen
+CUST1241,31,Female,8.4,73,20,12,Groceries
+CUST1268,30,Female,1.5,69,18,32,Sports
+CUST1500,47,Male,6.5,43,12,35,Home & Kitchen
+CUST1075,39,Female,19.3,80,26,17,Sports
+CUST1331,33,Female,2.9,22,1,38,Home & Kitchen
+CUST1477,43,Male,8.1,58,16,54,Home & Kitchen
+CUST1422,56,Male,7.5,42,14,40,Sports
+CUST1278,38,Male,7.7,80,14,15,Beauty
+CUST1081,41,Female,23.2,96,18,6,Home & Kitchen
+CUST1243,29,Female,4.9,96,20,15,Groceries
+CUST1027,42,Female,18.9,73,25,10,Electronics
+CUST1203,22,Female,5.2,71,14,28,Groceries
+CUST1213,25,Male,5.9,98,12,16,Fashion
+CUST1282,29,Female,8.3,77,23,25,Electronics
+CUST1354,25,Male,5.1,29,2,89,Sports
+CUST1365,30,Female,3.8,27,5,146,Fashion
+CUST1146,42,Male,11.4,28,6,106,Sports
+CUST1421,36,Female,7.7,60,14,25,Groceries
+CUST1109,44,Male,17.5,73,21,16,Electronics
+CUST1051,40,Male,15.1,76,24,19,Sports
+CUST1436,47,Male,8.1,53,10,35,Fashion
+CUST1301,31,Female,7.6,95,17,29,Fashion
+CUST1015,41,Male,20.5,76,30,12,Electronics
+CUST1465,45,Male,14.3,61,12,26,Fashion
+CUST1391,26,Female,5.7,8,4,131,Fashion
+CUST1115,55,Female,14.7,45,5,87,Sports
+CUST1244,32,Female,4.7,60,19,16,Home & Kitchen
+CUST1060,45,Male,17.9,84,18,3,Home & Kitchen
+CUST1174,50,Female,11.6,20,6,165,Fashion
+CUST1099,41,Female,15.4,90,18,1,Electronics
+CUST1160,45,Male,17.4,17,6,123,Home & Kitchen
+CUST1250,26,Female,6.8,78,11,35,Home & Kitchen
+CUST1042,42,Male,14.9,80,29,21,Electronics
+CUST1271,29,Female,2.9,73,19,25,Fashion
+CUST1205,38,Male,3.3,63,22,14,Sports
+CUST1218,26,Female,3.9,80,17,7,Electronics
+CUST1080,36,Female,23.0,85,19,22,Sports
+CUST1029,41,Female,24.0,100,21,19,Sports
+CUST1345,27,Male,3.3,25,2,141,Groceries
+CUST1364,22,Female,2.3,16,3,120,Home & Kitchen
+CUST1257,35,Male,3.2,69,19,19,Home & Kitchen
+CUST1466,38,Female,7.4,62,11,2,Sports
+CUST1058,48,Female,19.2,73,26,10,Groceries
+CUST1427,41,Female,11.1,56,15,47,Sports
+CUST1063,39,Female,16.6,89,22,8,Groceries
+CUST1388,28,Male,5.0,24,3,134,Fashion
+CUST1112,48,Male,19.3,20,9,69,Sports
+CUST1085,30,Male,14.7,82,23,20,Beauty
+CUST1237,26,Female,5.1,76,11,15,Electronics
+CUST1272,28,Female,5.6,80,24,14,Sports
+CUST1343,33,Male,3.9,24,3,180,Electronics
+CUST1228,37,Female,6.1,68,17,16,Groceries
+CUST1130,34,Female,18.2,28,7,107,Groceries
+CUST1166,50,Female,16.1,13,6,93,Beauty
+CUST1097,29,Male,15.5,83,27,9,Sports
+CUST1489,52,Female,10.5,59,21,37,Groceries
+CUST1297,30,Male,4.9,81,15,16,Beauty
+CUST1480,45,Female,8.7,60,10,49,Beauty
+CUST1142,41,Male,16.7,35,8,74,Beauty
+CUST1464,22,Male,10.1,36,16,48,Electronics
+CUST1188,45,Male,21.0,32,4,95,Beauty
+CUST1369,31,Female,4.8,32,3,99,Fashion
+CUST1221,18,Male,6.1,90,11,10,Beauty
+CUST1229,31,Male,6.2,66,21,21,Home & Kitchen
+CUST1323,27,Male,4.5,23,3,101,Electronics
+CUST1396,21,Female,5.1,26,1,109,Groceries
+CUST1360,27,Male,7.9,13,1,116,Beauty
+CUST1082,33,Female,17.5,70,15,7,Sports
+CUST1355,25,Male,4.6,19,3,155,Beauty
+CUST1322,18,Female,4.7,20,3,121,Electronics
+CUST1514,43,Male,10.3,47,11,38,Fashion
+CUST1435,58,Male,12.8,51,8,30,Groceries
+CUST1415,44,Male,3.5,27,5,39,Fashion
+CUST1189,49,Female,11.9,33,4,115,Sports
+CUST1335,41,Male,4.7,25,6,115,Sports
+CUST1054,36,Female,15.5,99,19,15,Sports
+CUST1172,35,Male,19.8,37,6,101,Beauty
+CUST1385,47,Female,1.9,27,2,111,Beauty
+CUST1140,41,Female,20.7,29,3,98,Sports
+CUST1274,33,Female,3.9,75,26,23,Electronics
+CUST1285,31,Female,6.4,72,18,12,Beauty
+CUST1067,36,Male,22.7,84,27,27,Home & Kitchen
+CUST1439,51,Male,9.9,61,10,21,Fashion
+CUST1508,44,Male,9.4,51,14,33,Electronics
+CUST1295,41,Female,5.5,54,17,13,Home & Kitchen
+CUST1233,33,Male,6.0,62,6,16,Groceries
+CUST1100,32,Female,17.0,73,26,7,Home & Kitchen
+CUST1284,39,Female,5.2,88,23,38,Fashion
+CUST1149,53,Female,22.3,35,3,98,Home & Kitchen
+CUST1016,32,Female,19.1,77,16,13,Home & Kitchen
+CUST1164,49,Female,19.7,24,4,106,Sports
+CUST1290,34,Female,4.8,73,21,12,Fashion
+CUST1047,44,Female,18.4,83,23,7,Beauty
+CUST1087,35,Male,19.9,79,28,21,Sports
+CUST1038,32,Male,17.6,79,21,5,Beauty
+CUST1423,43,Male,9.1,60,11,34,Sports
+CUST1371,26,Male,4.1,27,4,180,Electronics
+CUST1425,42,Male,6.8,54,10,27,Beauty
+CUST1446,50,Male,9.7,49,7,58,Home & Kitchen
+CUST1294,29,Male,6.5,73,24,27,Groceries
+CUST1173,32,Female,15.5,22,2,128,Electronics
+CUST1074,41,Male,21.3,61,22,11,Fashion
+CUST1281,25,Male,2.7,58,19,29,Fashion
+CUST1105,31,Female,17.0,97,28,10,Home & Kitchen
+CUST1358,35,Female,3.0,28,3,129,Groceries
+CUST1254,18,Female,7.5,61,19,16,Electronics
+CUST1017,41,Male,22.4,65,22,18,Groceries
+CUST1447,33,Male,7.5,44,13,54,Beauty
+CUST1092,37,Female,22.2,86,21,6,Beauty
+CUST1089,41,Female,18.0,87,24,14,Beauty
+CUST1387,35,Female,5.0,39,5,102,Groceries
+CUST1141,42,Male,16.0,22,4,76,Electronics
+CUST1195,32,Female,20.2,40,7,119,Sports
+CUST1206,23,Female,7.3,86,17,18,Electronics
+CUST1103,36,Female,18.1,91,23,13,Fashion
+CUST1265,39,Female,5.9,82,20,13,Fashion
+CUST1175,42,Female,14.9,32,4,80,Home & Kitchen
+CUST1171,43,Male,20.5,25,6,72,Electronics
+CUST1389,33,Male,3.1,7,5,64,Beauty
+CUST1158,43,Male,11.6,37,5,131,Fashion
+CUST1071,29,Male,21.9,80,23,3,Beauty
+CUST1134,48,Female,14.1,32,1,81,Fashion
+CUST1455,41,Male,8.3,52,19,27,Fashion
+CUST1509,24,Male,8.8,47,15,28,Sports
+CUST1379,34,Female,2.1,20,4,107,Groceries
+CUST1363,41,Female,3.9,25,3,115,Electronics
+CUST1246,38,Female,5.1,92,13,9,Fashion
+CUST1470,54,Male,9.5,59,10,26,Fashion
+CUST1432,57,Female,9.5,58,17,18,Home & Kitchen
+CUST1353,26,Female,5.3,14,1,105,Beauty
+CUST1245,33,Female,4.9,71,26,25,Beauty
+CUST1019,44,Female,16.1,74,18,14,Home & Kitchen
+CUST1178,54,Female,14.0,29,8,91,Sports
+CUST1410,35,Male,5.4,27,2,89,Beauty
+CUST1021,37,Female,16.8,75,25,14,Groceries
+CUST1056,34,Female,15.3,85,21,18,Fashion
+CUST1320,31,Male,3.0,71,20,18,Groceries
+CUST1462,40,Female,12.8,58,14,45,Sports
+CUST1368,27,Female,6.6,14,2,80,Beauty
+CUST1035,42,Male,15.6,80,23,16,Groceries
+CUST1182,57,Female,17.1,47,6,85,Electronics
+CUST1185,36,Male,17.0,29,5,111,Beauty
+CUST1151,38,Male,16.0,11,5,61,Beauty
+CUST1208,26,Male,4.7,79,19,12,Groceries
+CUST1352,18,Male,3.3,16,2,81,Beauty
+CUST1095,26,Male,11.8,89,20,3,Groceries
+CUST1377,31,Female,4.1,15,4,77,Electronics
+CUST1303,20,Male,8.8,82,20,9,Beauty
+CUST1098,31,Male,14.3,76,31,19,Beauty
+CUST1236,32,Male,5.3,57,16,19,Beauty
+CUST1405,28,Male,2.3,20,2,91,Fashion
+CUST1442,46,Male,12.2,64,8,58,Beauty
+CUST1155,38,Female,12.2,27,7,98,Home & Kitchen
+CUST1123,32,Male,12.8,57,3,40,Groceries
+CUST1339,25,Male,5.3,19,1,118,Home & Kitchen
+CUST1079,42,Female,13.9,68,16,17,Home & Kitchen
+CUST1062,36,Female,19.3,68,24,17,Groceries
+CUST1476,33,Female,7.5,41,12,38,Electronics
+CUST1126,24,Female,17.5,37,7,121,Groceries
+CUST1319,25,Female,4.2,69,19,22,Electronics
+CUST1317,22,Female,5.1,59,18,7,Sports
+CUST1496,50,Female,12.0,76,6,16,Electronics
+CUST1431,39,Male,8.1,52,12,28,Beauty
+CUST1451,45,Male,11.9,41,12,26,Sports
+CUST1418,49,Male,5.1,30,3,157,Beauty
+CUST1025,35,Male,13.6,99,28,5,Beauty
+CUST1329,18,Female,4.7,16,3,144,Home & Kitchen
+CUST1440,36,Male,8.4,42,12,42,Home & Kitchen
+CUST1511,36,Female,11.4,65,13,34,Sports
+CUST1127,51,Male,20.4,25,5,125,Groceries
+CUST1424,48,Female,11.2,63,14,27,Fashion
+CUST1328,42,Male,3.6,22,2,148,Fashion
+CUST1179,27,Male,16.9,27,9,106,Groceries
+CUST1444,42,Male,7.9,54,14,8,Electronics
+CUST1381,21,Female,4.6,25,3,99,Electronics
+CUST1224,18,Male,6.5,76,23,39,Electronics
+CUST1359,18,Female,5.9,15,4,109,Groceries
+CUST1094,37,Male,19.9,86,18,15,Groceries
+CUST1070,37,Female,18.9,81,21,15,Fashion
+CUST1037,37,Male,16.2,85,21,18,Electronics
+CUST1161,53,Male,9.7,18,3,79,Fashion
+CUST1012,43,Female,18.5,77,25,14,Sports
+CUST1145,41,Male,16.2,23,5,71,Home & Kitchen
+CUST1361,35,Female,4.9,24,5,74,Fashion
+CUST1128,47,Male,18.2,24,7,100,Groceries
+CUST1448,26,Female,9.4,50,14,57,Electronics
+CUST1010,32,Female,17.3,80,26,14,Groceries
+CUST1382,40,Female,3.0,22,1,37,Groceries
+CUST1177,44,Male,15.3,32,7,101,Beauty
+CUST1232,32,Female,9.0,75,10,35,Electronics
+CUST1211,25,Female,5.8,74,13,15,Beauty
+CUST1129,39,Male,18.6,36,6,82,Groceries
+CUST1144,57,Male,17.4,24,9,109,Beauty
+CUST1242,24,Male,6.2,73,20,21,Groceries
+CUST1008,36,Female,18.1,97,25,10,Sports
+CUST1299,27,Female,3.1,85,21,10,Beauty
+CUST1255,28,Male,7.4,78,17,21,Electronics
+CUST1378,30,Female,2.8,13,1,103,Beauty
+CUST1342,47,Male,5.4,19,1,113,Groceries
+CUST1009,38,Male,22.8,75,29,19,Fashion
+CUST1157,54,Male,13.4,30,4,91,Beauty
+CUST1028,41,Female,20.5,97,25,24,Groceries
+CUST1267,35,Male,7.3,69,21,17,Beauty
+CUST1065,43,Female,14.2,73,27,1,Sports
+CUST1256,20,Female,6.9,77,16,20,Home & Kitchen
+CUST1325,30,Female,5.2,24,2,177,Groceries
+CUST1154,37,Female,15.3,26,4,105,Beauty
+CUST1049,43,Male,16.5,82,30,7,Sports
+CUST1209,32,Male,5.5,61,14,16,Electronics
+CUST1288,18,Male,5.0,48,21,14,Home & Kitchen
+CUST1002,31,Female,18.7,84,27,14,Sports
+CUST1270,26,Female,5.3,78,24,10,Sports
+CUST1266,26,Male,7.7,63,14,21,Beauty
+CUST1334,24,Female,1.5,18,4,154,Home & Kitchen
+CUST1341,21,Female,4.6,16,2,95,Groceries
+CUST1096,28,Male,17.9,80,23,16,Sports
+CUST1473,53,Male,7.6,37,10,35,Sports
+CUST1501,34,Female,9.8,66,5,47,Groceries
+CUST1510,50,Male,12.3,48,12,63,Electronics
+CUST1117,31,Female,16.0,45,5,103,Groceries
+CUST1046,40,Female,23.3,90,33,11,Sports
+CUST1162,37,Female,15.6,31,3,93,Sports
+CUST1499,44,Male,8.1,56,6,59,Fashion
+CUST1118,45,Female,15.0,28,6,103,Electronics
+CUST1289,18,Female,5.2,73,6,15,Electronics
+CUST1078,39,Male,14.3,79,27,8,Home & Kitchen
+CUST1402,37,Female,5.4,7,4,75,Electronics
+CUST1064,42,Female,14.3,86,26,3,Fashion
+CUST1459,25,Male,7.6,74,9,19,Fashion
+CUST1397,37,Female,4.7,28,4,51,Fashion
+CUST1231,24,Male,4.0,85,17,22,Sports
+CUST1298,26,Male,8.8,78,24,21,Groceries
+CUST1187,49,Male,14.3,21,5,80,Sports
+CUST1513,40,Male,9.8,45,12,33,Groceries
+CUST1200,30,Male,14.7,23,2,108,Electronics
+CUST1351,30,Female,2.8,16,4,134,Beauty
+CUST1122,31,Male,20.0,31,6,86,Home & Kitchen
+CUST1479,25,Female,6.6,59,13,44,Groceries
+CUST1443,43,Female,12.4,36,14,35,Beauty
+CUST1308,18,Female,5.2,83,12,21,Sports
+CUST1472,41,Male,10.0,48,10,50,Beauty
+CUST1159,37,Male,17.8,18,5,84,Fashion
+CUST1086,41,Female,15.3,74,25,9,Fashion
+CUST1226,37,Female,5.2,79,20,22,Fashion
+CUST1263,34,Male,6.3,78,33,9,Beauty
+CUST1332,22,Female,2.7,24,3,126,Beauty
+CUST1411,20,Female,4.2,31,4,84,Beauty
+CUST1077,35,Female,18.5,84,24,16,Sports
+CUST1398,38,Male,5.3,15,5,131,Fashion
+CUST1383,18,Female,4.5,26,1,125,Home & Kitchen
+CUST1088,38,Male,16.8,92,29,13,Home & Kitchen
+CUST1515,52,Male,7.8,62,11,19,Fashion
+CUST1183,47,Female,14.6,26,7,60,Electronics
+CUST1106,37,Male,21.0,88,22,11,Electronics
+CUST1409,37,Female,3.6,23,1,118,Sports
+CUST1050,38,Male,14.4,82,22,16,Home & Kitchen
+CUST1390,31,Male,4.7,14,3,94,Beauty
+CUST1006,29,Female,16.4,84,19,3,Beauty
+CUST1018,31,Male,14.4,81,26,7,Electronics
+CUST1235,32,Female,6.9,61,13,28,Sports
+CUST1413,32,Female,6.2,18,6,119,Electronics
+CUST1407,29,Female,4.8,18,2,97,Groceries
+CUST1107,31,Male,19.6,69,22,13,Electronics
+CUST1135,48,Female,11.5,11,6,115,Home & Kitchen
+CUST1414,23,Male,3.2,26,3,99,Sports
+CUST1227,29,Female,4.3,85,24,11,Beauty
+CUST1215,43,Male,5.3,72,22,19,Sports
+CUST1191,47,Female,9.5,37,5,79,Groceries
+CUST1453,38,Female,9.1,68,18,20,Fashion
+CUST1321,44,Female,6.4,26,2,125,Home & Kitchen
+CUST1283,25,Male,6.4,68,9,34,Groceries
+CUST1030,41,Female,26.7,73,23,6,Sports
+CUST1170,45,Male,17.3,28,6,55,Fashion
+CUST1181,38,Female,13.8,22,5,98,Home & Kitchen
+CUST1101,35,Female,20.7,88,20,2,Home & Kitchen
+CUST1198,55,Male,21.5,20,8,110,Groceries
+CUST1210,28,Female,3.2,89,12,30,Electronics
+CUST1136,44,Male,21.9,34,1,112,Beauty
+CUST1484,43,Male,9.5,60,11,5,Fashion
+CUST1441,51,Male,9.2,54,10,29,Sports
+CUST1199,37,Male,12.1,29,4,110,Home & Kitchen
+CUST1374,32,Male,4.5,8,3,98,Home & Kitchen
+CUST1167,45,Male,13.0,21,6,90,Electronics
+CUST1395,26,Male,3.7,38,4,144,Sports
+CUST1137,52,Male,22.1,19,2,71,Groceries
+CUST1286,28,Female,3.4,56,17,21,Home & Kitchen
+CUST1336,40,Female,3.9,31,3,140,Beauty
+CUST1132,48,Male,9.8,28,4,95,Fashion
+CUST1040,43,Female,18.5,71,27,28,Groceries
+CUST1216,31,Male,6.6,69,10,27,Home & Kitchen
+CUST1044,40,Male,16.5,78,27,15,Beauty
+CUST1055,35,Female,20.5,95,18,10,Fashion
+CUST1488,32,Female,8.6,68,10,36,Beauty
+CUST1300,18,Female,7.4,63,16,34,Electronics
+CUST1468,49,Female,12.1,48,14,52,Fashion
+CUST1305,22,Male,7.0,66,22,11,Beauty
+CUST1036,46,Male,16.8,88,30,10,Fashion
+CUST1316,27,Female,6.6,79,15,28,Beauty
+CUST1400,42,Male,5.5,22,2,119,Sports
+CUST1310,34,Male,7.6,74,27,12,Groceries
+CUST1277,38,Male,4.5,76,12,14,Beauty
+CUST1125,41,Female,18.2,22,7,95,Fashion
+CUST1143,51,Female,12.2,16,4,82,Sports
+CUST1111,50,Female,16.3,21,5,69,Electronics
+CUST1324,42,Female,3.7,23,3,122,Fashion
+CUST1333,28,Male,5.2,40,3,43,Sports
+CUST1394,26,Female,3.9,18,6,130,Beauty
+CUST1474,56,Male,9.1,53,14,31,Sports
+CUST1108,36,Female,22.0,81,20,6,Home & Kitchen
+CUST1456,37,Female,10.7,48,9,46,Beauty
+CUST1013,38,Male,18.7,85,24,24,Fashion
+CUST1273,24,Female,7.4,54,6,15,Electronics
+CUST1048,40,Male,20.9,85,16,15,Electronics
+CUST1204,23,Male,6.1,45,22,23,Beauty
+CUST1478,45,Female,8.8,55,16,40,Fashion
+CUST1120,42,Male,23.2,27,8,110,Beauty
+CUST1022,33,Female,13.9,81,27,7,Sports
+CUST1403,36,Female,5.5,21,7,97,Fashion
+CUST1084,35,Female,22.4,79,27,11,Groceries
+CUST1131,52,Male,17.2,31,6,82,Home & Kitchen
+CUST1457,38,Female,9.3,44,15,45,Electronics
+CUST1494,44,Female,6.0,51,12,26,Electronics
+CUST1330,43,Male,4.4,23,2,110,Electronics
+CUST1230,34,Female,4.7,80,14,1,Beauty
+CUST1507,52,Female,7.4,52,15,26,Beauty
+CUST1287,36,Male,7.3,62,11,11,Electronics
+CUST1124,49,Female,19.0,36,5,96,Home & Kitchen
+CUST1034,32,Male,18.8,74,20,13,Electronics
+CUST1486,44,Male,10.9,46,8,23,Beauty
+CUST1005,24,Female,18.2,83,24,10,Fashion
+CUST1412,43,Male,3.9,20,2,61,Sports
+CUST1020,38,Male,15.2,78,30,12,Electronics
+CUST1220,25,Male,5.9,71,18,16,Sports
+CUST1380,48,Female,4.2,12,4,158,Home & Kitchen
+CUST1512,54,Female,10.5,51,14,54,Electronics
+CUST1420,33,Female,4.7,36,3,67,Home & Kitchen
+CUST1357,34,Male,5.4,21,1,130,Electronics
+CUST1150,27,Female,19.1,29,5,156,Electronics
+CUST1225,22,Male,9.6,93,7,6,Beauty
+CUST1248,23,Female,6.9,81,24,9,Home & Kitchen
+CUST1454,48,Female,10.8,48,7,27,Groceries
+CUST1152,39,Male,16.9,10,2,132,Electronics
+CUST1493,40,Male,10.5,50,17,39,Sports
+CUST1318,34,Male,4.1,68,10,20,Electronics
+CUST1292,31,Male,6.5,86,18,19,Sports
+CUST1234,26,Female,4.4,61,23,22,Fashion
+CUST1011,44,Male,14.9,70,15,11,Home & Kitchen
+CUST1280,31,Female,6.2,55,18,15,Fashion
+CUST1072,30,Female,18.7,83,25,10,Groceries
+CUST1253,27,Female,3.8,84,21,12,Sports
+CUST1093,35,Female,18.3,96,22,9,Fashion
+CUST1492,50,Female,12.6,57,14,35,Electronics
+CUST1350,18,Female,3.6,25,4,104,Beauty
+CUST1416,39,Male,4.8,19,3,94,Beauty
+CUST1375,29,Female,5.1,16,1,84,Sports
+CUST1401,34,Female,4.6,23,5,83,Groceries
+CUST1193,51,Female,16.1,41,6,134,Electronics
+CUST1258,38,Male,6.7,75,17,20,Sports
+CUST1495,45,Male,10.4,48,14,35,Home & Kitchen
+CUST1340,45,Male,4.0,25,5,109,Electronics
+CUST1504,47,Male,12.1,62,10,28,Fashion
+CUST1196,27,Male,6.6,11,6,126,Home & Kitchen
+CUST1344,23,Male,5.7,29,3,135,Groceries
+CUST1138,50,Male,20.8,15,6,119,Fashion
+CUST1261,25,Female,5.5,71,15,16,Fashion
+CUST1039,32,Female,21.2,81,25,12,Fashion
+CUST1463,37,Female,8.5,45,13,49,Home & Kitchen
+CUST1202,41,Female,8.3,74,15,7,Electronics
+CUST1481,61,Female,9.7,46,17,21,Electronics
+CUST1291,29,Female,4.6,71,11,12,Electronics
+CUST1449,47,Male,9.5,69,9,23,Electronics
+CUST1190,43,Male,8.6,22,6,100,Fashion
+CUST1252,29,Female,6.1,67,25,21,Fashion
+CUST1113,38,Male,22.3,25,5,96,Electronics
+CUST1438,38,Female,12.6,53,11,35,Sports
+CUST1184,51,Male,16.9,17,5,56,Fashion
+CUST1153,26,Male,16.2,28,4,99,Groceries
+CUST1313,23,Male,6.7,57,19,29,Fashion
+CUST1326,20,Female,5.1,28,1,102,Beauty
+CUST1192,46,Female,16.1,38,6,126,Groceries
+CUST1045,39,Male,17.8,86,26,12,Fashion
+CUST1445,39,Female,9.4,47,15,39,Home & Kitchen
+CUST1276,33,Male,4.1,76,23,27,Home & Kitchen
+CUST1007,39,Female,18.7,100,21,18,Beauty
+CUST1251,35,Male,4.9,83,16,29,Sports
+CUST1312,18,Male,4.1,73,15,30,Groceries
+CUST1076,43,Female,22.6,83,23,14,Electronics
+CUST1001,40,Female,19.3,80,30,11,Electronics
+CUST1429,46,Female,8.7,55,9,25,Fashion
+CUST1392,30,Female,5.4,22,4,92,Home & Kitchen
+CUST1384,35,Male,4.6,26,6,89,Fashion
+CUST1433,39,Female,11.4,51,6,47,Fashion
+CUST1069,44,Female,17.6,80,26,9,Electronics
+CUST1487,34,Female,12.4,36,14,41,Sports
+CUST1168,51,Female,12.2,23,2,67,Home & Kitchen
+CUST1393,35,Female,4.4,21,4,62,Electronics
+CUST1219,28,Male,6.8,74,20,9,Home & Kitchen
+CUST1043,33,Male,13.0,84,27,13,Groceries
+CUST1367,34,Female,2.8,18,1,157,Sports
+CUST1346,26,Male,4.9,32,3,135,Sports
+CUST1073,32,Male,16.8,94,27,13,Groceries
+CUST1024,37,Male,17.3,70,27,1,Sports
+CUST1399,35,Female,4.7,14,5,60,Beauty
+CUST1186,36,Male,12.0,18,7,88,Groceries
+CUST1349,22,Male,6.8,44,1,48,Beauty
+CUST1104,43,Female,16.5,88,17,11,Home & Kitchen
+CUST1408,27,Female,2.4,21,2,139,Electronics
+CUST1212,25,Male,7.0,78,15,25,Beauty
+CUST1068,35,Female,18.5,82,25,15,Home & Kitchen
+CUST1503,45,Male,9.0,57,10,35,Electronics
+CUST1197,53,Male,17.4,25,3,123,Groceries
+CUST1176,37,Male,16.8,14,4,131,Beauty
